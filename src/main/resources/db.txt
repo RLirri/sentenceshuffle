@@ -1,0 +1,2 @@
+ insert into `tb_user` (`id`, `username`) values ('2', 'ben');
+ CREATE TABLE `tb_user` (`id` int(11) NOT NULL AUTO_INCREMENT, `username` varchar(255) DEFAULT NULL, PRIMARY KEY (`id`));
